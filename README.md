@@ -7,19 +7,7 @@ No more copy-pasting terminal output or re-explaining what happened in a previou
 ## Install
 
 ```bash
-pi install /path/to/pi-tmux-history
-# or once published:
-# pi install npm:pi-tmux-history
-# or from GitHub:
-# pi install git:github.com/metodn/pi-tmux-history
-```
-
-Or add to `~/.pi/agent/settings.json`:
-
-```json
-{
-  "extensions": ["/path/to/pi-tmux-history"]
-}
+pi install git:github.com/metodn/pi-tmux-history
 ```
 
 ## Usage
